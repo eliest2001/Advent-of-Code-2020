@@ -4,7 +4,7 @@ public class Dia4{
 
   public static void main(String[] args) {
     Scanner file = null;
-    File archivo = new File("G:\\input.txt");
+    File archivo = new File("G:\\input99.txt");
     ArrayList<String> var = new ArrayList<>();
     String[] string = new String[8];
     String str = null;
